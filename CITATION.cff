@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and the First Four Years of Generative AI"
+title: "Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI"
 message: If you use this working paper, please cite it as below.
 type: article
 authors:
@@ -8,6 +8,7 @@ authors:
     alias: Investor0x
     website: https://github.com/BenFrohman
 date-released: "2026-09-08"
+version: "1.1"
 license: CC-BY-4.0
 keywords:
   - automation
@@ -19,5 +20,14 @@ keywords:
   - employment
   - displacement
   - reinstatement
+  - Western labour markets
+  - canary residual
 abstract: >-
-  The Luddite-fallacy claim about aggregate unemployment still holds in U.S. data through August 2026. The Ricardo–Acemoglu–Restrepo claim about task displacement, labor’s share of income, and which cohorts lose the hiring channel is the part that is moving. This working paper reconstructs Ricardo’s 1821 machinery chapter and the Acemoglu–Restrepo task model, then reads official BLS employment series, BLS 2025–35 projections, White House/CEA narrative, Stanford/ADP entry-level evidence, Challenger AI-attributed cuts, and hyperscaler capital expenditure against both frameworks.
+  The Luddite-fallacy claim about aggregate unemployment still holds in U.S. and
+  Western official data through mid-2026. The Ricardo–Acemoglu–Restrepo claim
+  about task displacement, labor’s share of income, and which cohorts lose the
+  hiring channel is the part that is moving. Version 1.1 adds a Western
+  comparison (Canada, United Kingdom, euro area, Australia) and states the
+  claim as a testable identity—the Displacement–Redundancy Balance—with two
+  monitoring statistics, the canary residual and the wage-fund conversion
+  ratio, that later vintages can reshape.
