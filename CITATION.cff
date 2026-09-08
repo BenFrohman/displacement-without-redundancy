@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and the First Four Years of Generative AI"
+message: If you use this working paper, please cite it as below.
+type: article
+authors:
+  - family-names: Frohman
+    given-names: Benjamin
+    alias: Investor0x
+    website: https://github.com/BenFrohman
+date-released: "2026-09-08"
+license: CC-BY-4.0
+keywords:
+  - automation
+  - task model
+  - Ricardo
+  - generative AI
+  - labor share
+  - Luddite fallacy
+  - employment
+  - displacement
+  - reinstatement
+abstract: >-
+  The Luddite-fallacy claim about aggregate unemployment still holds in U.S. data through August 2026. The Ricardo–Acemoglu–Restrepo claim about task displacement, labor’s share of income, and which cohorts lose the hiring channel is the part that is moving. This working paper reconstructs Ricardo’s 1821 machinery chapter and the Acemoglu–Restrepo task model, then reads official BLS employment series, BLS 2025–35 projections, White House/CEA narrative, Stanford/ADP entry-level evidence, Challenger AI-attributed cuts, and hyperscaler capital expenditure against both frameworks.
