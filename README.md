@@ -4,27 +4,26 @@
 
 *United States Evidence and a Western Comparison, 2016–2026*
 
-Benjamin Frohman · Working paper · Version 1.1 · 8 September 2026 · CC-BY-4.0
+Benjamin Frohman · Working paper · Version 1.2 · 8 September 2026 · CC-BY-4.0
+
+**DOI:** [https://doi.org/10.5281/zenodo.22712746](https://doi.org/10.5281/zenodo.22712746)  
+**Record:** [https://zenodo.org/records/22712746](https://zenodo.org/records/22712746)
 
 ## Claim
 
 The Luddite-fallacy claim about *aggregate unemployment* still holds in U.S. and Western official data through mid-2026. The Ricardo / Acemoglu–Restrepo claim about *task displacement, labor’s share, and the junior hiring channel* is the part that is moving.
 
-Version 1.1 adds:
+Version 1.2 is the version of record on Zenodo. It includes the Western labour-market snapshot, the Displacement–Redundancy Balance, and a public-data first-difference cousin of equation (5) on Eurostat occupation-by-age cells.
 
-- a Western labour-market snapshot (Canada, United Kingdom, euro area, Australia, OECD)
-- a testable identity, the Displacement–Redundancy Balance, with two monitoring statistics (the canary residual \(C_{ct}\) and the wage-fund conversion ratio \(\rho_{ct}\)) that later vintages can reshape
+## Cite
 
-## Files
+Frohman, Benjamin. 2026. “Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI.” Working paper, version 1.2. Zenodo. https://doi.org/10.5281/zenodo.22712746
 
-- `Frohman_2026_Displacement_Without_Redundancy.pdf` — version of record (upload this to Zenodo)
+## Files on Zenodo
+
+- `Frohman_2026_Displacement_Without_Redundancy.pdf` — version of record
 - `Frohman_2026_Displacement_Without_Redundancy.md` — source
-- `CITATION.cff` — citation metadata
-- `ZENODO_DEPOSIT.md` — exact deposit steps
-- `build_pdf.py` — typesetter
 
-## Deposit
+## License
 
-Zenodo is a CERN repository that mints DOIs. It is not a peer-reviewed journal. See `ZENODO_DEPOSIT.md`.
-
-To mint a DOI from a GitHub repository: connect the repo at [zenodo.org/account/settings/github](https://zenodo.org/account/settings/github), then create a GitHub Release tagged `v1.1.0`.
+Creative Commons Attribution 4.0 International (CC-BY-4.0).
