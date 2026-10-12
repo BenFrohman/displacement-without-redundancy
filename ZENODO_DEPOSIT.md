@@ -11,7 +11,7 @@ This working paper is live.
 
 ## Citation
 
-Frohman, Benjamin. 2026. “Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI.” Working paper, version 1.2. Zenodo. https://doi.org/10.5281/zenodo.22712746
+Frohman, Benjamin Stanley. 2026. “Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI.” Working paper, version 1.2. Zenodo. https://doi.org/10.5281/zenodo.22712746
 
 ## Later revisions
 

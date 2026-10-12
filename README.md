@@ -4,7 +4,7 @@
 
 *United States Evidence and a Western Comparison, 2016–2026*
 
-Benjamin Frohman · Working paper · Version 1.2 · 11 September 2026 · CC-BY-4.0
+Benjamin Stanley Frohman · Working paper · Version 1.2 · 11 September 2026
 
 **DOI:** [https://doi.org/10.5281/zenodo.22712746](https://doi.org/10.5281/zenodo.22712746)  
 **Record:** [https://zenodo.org/records/22712746](https://zenodo.org/records/22712746)
@@ -21,7 +21,7 @@ Version 1.2 is the version of record on Zenodo. It includes:
 
 ## Cite
 
-Frohman, Benjamin. 2026. “Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI.” Working paper, version 1.2. Zenodo. https://doi.org/10.5281/zenodo.22712746
+Frohman, Benjamin Stanley. 2026. “Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI.” Working paper, version 1.2. Zenodo. https://doi.org/10.5281/zenodo.22712746
 
 ## Files
 
@@ -31,3 +31,11 @@ The version of record is on Zenodo (PDF + Markdown). This repository holds citat
 - `ZENODO_DEPOSIT.md` — deposit notes
 
 A later revision should use **New version** on the same Zenodo record, not a second upload.
+
+## License
+
+The files in this GitHub repository are offered under the Apache License, Version 2.0.
+See LICENSE and NOTICE.
+
+The version of record on Zenodo, https://doi.org/10.5281/zenodo.22712746 ,
+remains CC BY 4.0. Copies already received under that grant keep it.
