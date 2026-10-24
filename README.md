@@ -40,3 +40,7 @@ See LICENSE and NOTICE.
 
 The version of record on Zenodo, https://doi.org/10.5281/zenodo.22712746 ,
 remains CC BY 4.0. Copies already received under that grant keep it.
+
+## License
+
+Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
