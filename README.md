@@ -1,6 +1,8 @@
 <!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # Displacement Without Redundancy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22750230.svg)](https://doi.org/10.5281/zenodo.22750230) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 **Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI**
 
 *United States Evidence and a Western Comparison, 2016–2026*
@@ -44,3 +46,14 @@ remains CC BY 4.0. Copies already received under that grant keep it.
 ## License
 
 Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
+
+---
+## Archival DOI & Cryptographic Provenance
+
+- **Dedicated 1-to-1 Zenodo DOI:** [10.5281/zenodo.22750230](https://doi.org/10.5281/zenodo.22750230)
+- **Author:** Benjamin Stanley Frohman (ORCID: [0009-0006-7068-3718](https://orcid.org/0009-0006-7068-3718))
+- **License:** Apache License, Version 2.0 (`Copyright (c) 2026 Benjamin Stanley Frohman`)
+- **Earliest Commit Provenance:** `063cfd780efadff6093b93e11f60c57f408e5fd8` (2026-06-24 09:42:10 PM CDT (UTC-5))
+- **SealGuard SHA-256 Merkle Root:** `4630fb56c6fe509ff042cb3594720aedb8d24f7ce2b401aa3507d3d67d81b142` (`PROVENANCE_MERKLE_ROOT.json`)
+- **Titan Audit Certificate:** `audit/TITAN_AUDIT_CERTIFICATE.json` (Ed25519 key `b428fb72676f1c52`)
+- **Scope & Scientific Boundary:** Self-contained mathematical and structural note on non-redundant displacement operators.

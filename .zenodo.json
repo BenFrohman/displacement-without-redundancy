@@ -1,0 +1,25 @@
+{
+  "title": "Displacement Without Redundancy: Non-Degenerate Symplectic Shift Operators and Information-Preserving Transport",
+  "upload_type": "publication",
+  "description": "Mathematical specification of non-degenerate displacement operators and information-preserving symplectic transport. Self-contained mathematical and structural note on non-redundant displacement operators. Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0.",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "license": "Apache-2.0",
+  "access_right": "open",
+  "keywords": [
+    "Symplectic shift operators",
+    "Information-preserving transport",
+    "Displacement without redundancy"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/displacement-without-redundancy",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

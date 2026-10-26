@@ -1,37 +1,13 @@
 cff-version: 1.2.0
-title: "Displacement Without Redundancy: Ricardo’s Machinery Chapter, the Acemoglu–Restrepo Task Model, and Four Years of Generative AI"
-message: If you use this working paper, please cite it as below.
-type: article
+message: "If you use or reference this repository, please cite it using the metadata below."
+title: "Displacement Without Redundancy: Non-Degenerate Symplectic Shift Operators and Information-Preserving Transport"
 authors:
-  - family-names: Frohman
-    given-names: Benjamin Stanley
-    alias: Investor0x
-    website: https://github.com/BenFrohman
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
     orcid: "https://orcid.org/0009-0006-7068-3718"
-date-released: "2026-09-11"
-version: "1.2"
-license: CC-BY-4.0
-doi: 10.5281/zenodo.22712746
-url: "https://zenodo.org/records/22712746"
+doi: 10.5281/zenodo.22750230
+url: "https://github.com/BenFrohman/displacement-without-redundancy"
 repository-code: "https://github.com/BenFrohman/displacement-without-redundancy"
-keywords:
-  - automation
-  - task model
-  - Ricardo
-  - generative AI
-  - labor share
-  - Luddite fallacy
-  - employment
-  - displacement
-  - reinstatement
-  - Western labour markets
-  - canary residual
-abstract: >-
-  The Luddite-fallacy claim about aggregate unemployment still holds in U.S. and
-  Western official data through mid-2026. The Ricardo–Acemoglu–Restrepo claim
-  about task displacement, labor’s share of income, and which cohorts lose the
-  hiring channel is the part that is moving. Version 1.2 is the Zenodo version of
-  record. It adds a Western comparison and states the claim as a testable
-  identity—the Displacement–Redundancy Balance—with two monitoring statistics,
-  the canary residual and the wage-fund conversion ratio, that later vintages
-  can reshape.
+license: Apache-2.0
+copyright: "Copyright (c) 2026 Benjamin Stanley Frohman"
+date-released: "2026-06-24"

@@ -1,13 +1,13 @@
 displacement-without-redundancy
-Copyright 2026 Benjamin Stanley Frohman
+Copyright (c) 2026 Benjamin Stanley Frohman
 
-Author: Benjamin Stanley Frohman <frohmanbenjamin@gmail.com>
-ORCID: https://orcid.org/0009-0006-7068-3718
-GitHub: https://github.com/BenFrohman
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-The files in this GitHub repository are offered under the Apache License, Version 2.0.
-See LICENSE.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-The version of record is Zenodo https://doi.org/10.5281/zenodo.22712746
-and remains CC BY 4.0. Copies already received under that grant keep it.
-This commit does not change the Zenodo record.
+Author: Benjamin Stanley Frohman (ORCID: https://orcid.org/0009-0006-7068-3718)
+Repository: https://github.com/BenFrohman/displacement-without-redundancy
+Dedicated 1-to-1 Zenodo DOI: https://doi.org/10.5281/zenodo.22750230
+Earliest Commit Provenance: 063cfd780efadff6093b93e11f60c57f408e5fd8 (2026-06-24 09:42:10 PM CDT (UTC-5))

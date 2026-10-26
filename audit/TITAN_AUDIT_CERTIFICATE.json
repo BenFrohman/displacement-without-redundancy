@@ -1,0 +1,16 @@
+{
+  "schema": "titan-audit-v1.0",
+  "repository": "BenFrohman/displacement-without-redundancy",
+  "doi": "10.5281/zenodo.22750230",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "lean_module_count": 0,
+  "sorry_count": 0,
+  "modules": [],
+  "verdict": "PASS_ZERO_SORRY_HONEST_BOUNDARY",
+  "payload_sha256": "7fc5a7a2bbbe97e445ea0d43b038a52dcbba8b986b4ea1ba2aff84332dfafa89",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "adde7392cbc159f0a1bedbd7ae5450ac8c23e36d620e62ad8103da7584c44d8726e32e4d9f1f9cf53b30cb3a2a8b47c58f9ce3d18b8630920b8ac8068a4e4608"
+}

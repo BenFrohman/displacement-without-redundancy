@@ -1,0 +1,13 @@
+{
+  "schema": "sealguard-manifest-v1.0",
+  "repository": "BenFrohman/displacement-without-redundancy",
+  "doi": "10.5281/zenodo.22750230",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "public_surface_policy": "VERIFIED_PUBLIC_SURFACE_ONLY",
+  "classified_ip_redaction": "ACTIVE_ZERO_LEAKAGE",
+  "merkle_root_sha256": "4630fb56c6fe509ff042cb3594720aedb8d24f7ce2b401aa3507d3d67d81b142",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "e3c0dac3ebbb883b1d863ed607a84a0a0f3f36652e30cba31736ef8254ca851f2f88a3aaa8cbc9f3dd0fb30122d6d1ee2de68f14f3461e6fe0d5a4c44c96d30c"
+}

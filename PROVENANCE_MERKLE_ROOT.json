@@ -1,0 +1,55 @@
+{
+  "schema": "sealguard-merkle-provenance-v1.0",
+  "repository": "BenFrohman/displacement-without-redundancy",
+  "doi": "10.5281/zenodo.22750230",
+  "author": "Benjamin Stanley Frohman",
+  "orcid": "0009-0006-7068-3718",
+  "license": "Apache-2.0",
+  "timestamp_cdt": "2026-10-25T19:10:00-05:00",
+  "merkle_root_sha256": "4630fb56c6fe509ff042cb3594720aedb8d24f7ce2b401aa3507d3d67d81b142",
+  "ed25519_key_fingerprint": "b428fb72676f1c52",
+  "ed25519_signature": "e3c0dac3ebbb883b1d863ed607a84a0a0f3f36652e30cba31736ef8254ca851f2f88a3aaa8cbc9f3dd0fb30122d6d1ee2de68f14f3461e6fe0d5a4c44c96d30c",
+  "leaf_count": 8,
+  "leaves": [
+    {
+      "path": ".zenodo.json",
+      "sha256": "dbb401d0cac4001d15cf80fb1f87966387bf7ffd8f6b308ce8d678639c9478ee",
+      "bytes": 966
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "1732529c9d516b14378c2ea60b7a29a9dd01385bb5f302efa163c42b3dceb130",
+      "bytes": 320
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "b71cf1aca1a0ff47a9b825477f7ca80d6c735ea946d2022cab102ba5e11d203e",
+      "bytes": 641
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "ec43eec7417d548fb78a8dc50830f1d854b91a89c2daf0d4e957601515c15e87",
+      "bytes": 10773
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "8c13a92941ae6d279fb86755f28e073dddc0320fc8d99fc761b13fdce3c9ea1b",
+      "bytes": 624
+    },
+    {
+      "path": "README.md",
+      "sha256": "d2c45921af88c991173726fca8b172810f872874a037f3a94d65352163eb8f51",
+      "bytes": 3387
+    },
+    {
+      "path": "ZENODO_DEPOSIT.md",
+      "sha256": "7dab7efe166ce4404e83b5916a3bc229d8b267e1f4bb128d3156d09e006ee72b",
+      "bytes": 915
+    },
+    {
+      "path": "audit/TITAN_AUDIT_CERTIFICATE.json",
+      "sha256": "aa2d814284661b28632e9f12513d11f8396ae1580b62305aed3fb0ffb6682c2f",
+      "bytes": 685
+    }
+  ]
+}
